@@ -46,10 +46,15 @@ Decreasing rainfall patterns identified
 Negative relationship between temperature and rainfall
 
 ## Authors
+
 Jianyu Hao
+
 Juan Carlos Babilonia Marrugo
+
 Avinash Joshi
+
 Sarmad Ihsan
+
 Shubham Suthar
 
 
